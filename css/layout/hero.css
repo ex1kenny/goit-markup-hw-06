@@ -44,7 +44,11 @@
 }
 @media screen and (min-width: 1158px) {
   .button-section {
-    background-image: url(../images/bg-dekstop/people-office\ 1.jpg);
+    background-image: linear-gradient(
+        rgba(46, 47, 66, 0.7),
+        rgba(46, 47, 66, 0.7)
+      ),
+      url(../images/bg-dekstop/people-office\ 1.jpg);
   }
 }
 @media screen and (min-width: 1158px) and (min-device-pixel-ratio: 2),

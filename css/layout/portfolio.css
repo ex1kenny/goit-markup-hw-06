@@ -82,6 +82,6 @@
     flex-wrap: wrap;
   }
   .portfolio-img {
-    flex-basis: calc((100% / 2) - 24px);
+    flex-basis: calc((100%-24px) / 2);
   }
 }
