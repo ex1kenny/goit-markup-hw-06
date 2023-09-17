@@ -3,7 +3,7 @@
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/bg-phone/Dark-bg.jpg);
+    url(./images/first/Dark-bg.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -19,7 +19,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/bg-phone/Dark-bg@2x.jpg);
+      url(./images/first/Dark-bg@2x.jpg);
   }
 }
 @media screen and (min-width: 768px) {
@@ -28,7 +28,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/bg-table/Dark-bg.jpg);
+      url(../images/bg-table/Dark-bg.jpg);
   }
 }
 @media screen and (min-width: 768px) and (min-device-pixel-ratio: 2),
@@ -39,16 +39,12 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/bg-table/Dark-bg@2x.jpg);
+      url(../images/bg-table/Dark-bg@2x.jpg);
   }
 }
 @media screen and (min-width: 1158px) {
   .button-section {
-    background-image: linear-gradient(
-        rgba(46, 47, 66, 0.7),
-        rgba(46, 47, 66, 0.7)
-      ),
-      url(/images/bg-dekstop/people-office\ 1.jpg);
+    background-image: url(../images/bg-dekstop/people-office\ 1.jpg);
   }
 }
 @media screen and (min-width: 1158px) and (min-device-pixel-ratio: 2),
@@ -59,7 +55,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/bg-dekstop/people-office\ 1@2x.jpg);
+      url(../images/bg-dekstop/people-office\ 1@2x.jpg);
   }
 }
 
