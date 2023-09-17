@@ -1,8 +1,9 @@
-@import "/css/base/common.css";
-@import "/css/base/container.css";
-@import "/css/base/section.css";
-@import "/css/utils/visually-hidden.css";
-@import "/css/layout/header.css";
-@import "/css/layout/hero.css";
-@import "/css/layout/visually-section.css";
-@import "/css/layout/teamsection.css";
+@import "./layout/header.css";
+@import "./layout/hero.css";
+@import "./layout/portfolio.css";
+@import "./layout/teamsection.css";
+@import "./layout/visually-section.css";
+@import "./base/common.css";
+@import "./base/container.css";
+@import "./base/section.css";
+@import "./utils/visually-hidden.css";
