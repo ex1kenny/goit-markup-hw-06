@@ -75,15 +75,34 @@
     margin-bottom: 72px;
   }
 }
-@media screen and {
+@media screen and (min-width: 768px) and (max-width: 1157.98px) {
+  .bestsellers-img-wrapper {
+    max-width: 356px;
+  }
 }
+
 @media screen and (min-width: 768px) {
   .portfolio-title {
     display: flex;
     column-gap: 24px;
     flex-wrap: wrap;
+    row-gap: 72px;
   }
   .portfolio-img {
     flex-basis: calc((100%-24px) / 2);
+  }
+}
+@media screen and (min-width: 1158px) {
+  .portfolio-main {
+    padding: 120px 0;
+  }
+  .portfolio-img {
+    width: calc((100% - 48px) / 3);
+  }
+  .portfolio-title {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
   }
 }

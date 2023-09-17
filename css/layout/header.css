@@ -263,3 +263,8 @@
   display: flex;
   gap: 40px;
 }
+@media screen and (min-width: 320px) and (max-width: 1157.98px) {
+  .page-header-container {
+    border-bottom: none;
+  }
+}
