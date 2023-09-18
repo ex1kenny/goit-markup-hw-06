@@ -1,13 +1,13 @@
-@import url(../css/base/common.css);
-@import url(../css/base/container.css);
-@import url(../css/base/section.css);
+@import url(./base/common.css);
+@import url(./base/container.css);
+@import url(./base/section.css);
 
-@import url(../css/layout/header.css);
-@import url(../css/layout/hero.css);
-@import url(../css/layout/portfolio.css);
-@import url(../css/layout/teamsection.css);
-@import url(../css/layout/visually-section.css);
+@import url(./layout/header.css);
+@import url(./layout/hero.css);
+@import url(./layout/portfolio.css);
+@import url(./layout/teamsection.css);
+@import url(./layout/visually-section.css);
 
-@import url(../css/utils/visually-hidden.css);
-@import url(../css/layout/footer.css);
-@import url(../css/layout/backdrop.css);
+@import url(./utils/visually-hidden.css);
+@import url(./layout/footer.css);
+@import url(./layout/backdrop.css);

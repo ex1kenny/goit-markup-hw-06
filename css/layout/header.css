@@ -268,3 +268,8 @@
     border-bottom: none;
   }
 }
+@media screen and (max-width: 767.98px) {
+  .page-header-container {
+    height: 70px;
+  }
+}
