@@ -1,13 +1,11 @@
 @import url(./base/common.css);
 @import url(./base/container.css);
 @import url(./base/section.css);
-
 @import url(./layout/header.css);
 @import url(./layout/hero.css);
 @import url(./layout/portfolio.css);
 @import url(./layout/teamsection.css);
 @import url(./layout/visually-section.css);
-
 @import url(./utils/visually-hidden.css);
 @import url(./layout/footer.css);
 @import url(./layout/backdrop.css);
