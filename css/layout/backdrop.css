@@ -16,11 +16,6 @@
   visibility: visible;
   pointer-events: auto;
 }
-@media screen and (min-width: 320px) and (max-width: 428px) {
-  .modal {
-    width: 95%;
-  }
-}
 
 .modal {
   position: absolute;
@@ -204,4 +199,9 @@ input[type="checkbox"]:checked
 }
 .modal-checkbox-wrapper input:focus {
   border-color: #404bbf;
+}
+@media screen and (min-width: 320px) and (max-width: 428px) {
+  .modal {
+    width: 95%;
+  }
 }
