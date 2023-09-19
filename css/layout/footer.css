@@ -172,3 +172,8 @@
     margin-right: 80px;
   }
 }
+@media screen and (min-width: 1158px) {
+  .subscripe-input {
+    width: 264px;
+  }
+}
