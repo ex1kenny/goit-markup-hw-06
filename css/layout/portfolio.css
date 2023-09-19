@@ -71,6 +71,12 @@
   transform: translateY(0%);
 }
 @media screen and (max-width: 767.98px) {
+  .portfolio-img {
+    max-width: 360px;
+  }
+}
+
+@media screen and (max-width: 767.98px) {
   .portfolio-img:not(:last-child) {
     margin-bottom: 72px;
   }

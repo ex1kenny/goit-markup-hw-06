@@ -54,9 +54,9 @@
 }
 .footer-form {
   display: block;
+  width: 100%;
 }
 .subscripe-input {
-  width: 264px;
   height: 40px;
   border: 1px solid #ffffff;
   background-color: transparent;
@@ -125,7 +125,7 @@
 }
 @media screen and (max-width: 767.98px) {
   .subscripe-input {
-    width: 320px;
+    width: 100%;
   }
 }
 @media screen and (max-width: 767.98px) {

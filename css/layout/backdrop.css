@@ -205,3 +205,14 @@ input[type="checkbox"]:checked
     width: 95%;
   }
 }
+@media screen and (min-width: 768px) and (max-width: 1157.98px) {
+  .modal {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%);
+  }
+  .modal-layout {
+    overflow: scroll;
+  }
+}
