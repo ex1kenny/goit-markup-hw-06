@@ -11,7 +11,7 @@
   visibility: hidden;
   pointer-events: none;
 }
-.modal-layout.is-open {
+.modal-layout.is-hidden {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
